@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Base-Dll-Proxy", "..\Base-Dll-Proxy\Base-Dll-Proxy.vcxproj", "{5A1E571D-6AEA-451D-8F65-4C0CA06654B8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CombinedLimitRemover", "CombinedLimitRemover.vcxproj", "{46E86ED2-34D3-46F7-88BB-37BEB29A2981}"
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine-Power", "Engine-Power.vcxproj", "{5745FE58-B03C-4104-8E0F-F33DDD17EA99}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grav-Weight", "Grav-Weight.vcxproj", "{100BAAE9-D256-49E9-907D-487F8CBDE495}"
@@ -29,6 +31,10 @@ Global
 		{5A1E571D-6AEA-451D-8F65-4C0CA06654B8}.Debug|x64.Build.0 = Debug|x64
 		{5A1E571D-6AEA-451D-8F65-4C0CA06654B8}.Release|x64.ActiveCfg = Release|x64
 		{5A1E571D-6AEA-451D-8F65-4C0CA06654B8}.Release|x64.Build.0 = Release|x64
+		{46E86ED2-34D3-46F7-88BB-37BEB29A2981}.Debug|x64.ActiveCfg = Debug|x64
+		{46E86ED2-34D3-46F7-88BB-37BEB29A2981}.Debug|x64.Build.0 = Debug|x64
+		{46E86ED2-34D3-46F7-88BB-37BEB29A2981}.Release|x64.ActiveCfg = Release|x64
+		{46E86ED2-34D3-46F7-88BB-37BEB29A2981}.Release|x64.Build.0 = Release|x64
 		{5745FE58-B03C-4104-8E0F-F33DDD17EA99}.Debug|x64.ActiveCfg = Debug|x64
 		{5745FE58-B03C-4104-8E0F-F33DDD17EA99}.Debug|x64.Build.0 = Debug|x64
 		{5745FE58-B03C-4104-8E0F-F33DDD17EA99}.Release|x64.ActiveCfg = Release|x64
